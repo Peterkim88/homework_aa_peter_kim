@@ -39,7 +39,7 @@ describe Dessert do
   end
 
   describe "#mix!" do
-  
+
     it "shuffles the ingredient array" do
     ingredients = ["dough", "milk", "eggs", "yeast"]
 
